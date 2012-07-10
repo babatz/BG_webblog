@@ -1,0 +1,33 @@
+/*!
+ * My style
+ *
+ * Copyright 2012 Toz
+ * Licensed under nobody lulz
+ * http://www.babacar-gueye.fr
+ *
+ * Designed and built with all the love in the world
+ */
+
+#greetings
+{
+    text-align		: center;
+    vertical-align	: middle;
+
+/*
+    position		: absolute;
+    top			: 50%;
+    left		: 50%;
+*/
+
+    font-family		: Verdana;
+    font-size		: x-large;
+
+    margin		: auto;
+    padding		: auto;
+}
+
+footer
+{
+    margin		: 15px;
+    text-align		: center;
+}
