@@ -42,3 +42,30 @@ nav
 
 }
 
+#header
+{
+    display		: inline
+}
+
+#links
+{
+/*
+    text-align		: center;
+*/
+    vertical-align	: middle;
+}
+
+#icon-school, h1#title
+{
+    display		: inline-block;
+}
+
+h1#title
+{
+    vertical-align	: middle;
+}
+
+#links ul
+{
+    list-style-type	: none;
+}
